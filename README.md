@@ -11,4 +11,8 @@
 *[Machine Learning in LINE Company](https://www.slideshare.net/linecorp/machine-learning-at-line-124120738)
 
 
+### Machine Learning Resourses
+*[How to be ML Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers?fbclid=IwAR2S4_R0vkPKzDsoEb8TOdsIwxUXvxw-29S7F80z4WyXY_-loI_tcE7JLAE#machine-learning-mastery)
+
+
 
