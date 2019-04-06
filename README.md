@@ -20,6 +20,7 @@
 * [Best Resources for Learning Machine Learning? What Is ML Anyway? Q&A with ML Engineers!](https://www.youtube.com/watch?v=3EoRJR9kxAw&t=1s)
 * [The Best Resources I Used to Teach Myself Machine Learning](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
 * [Fast.ai](https://www.fast.ai/about/)
+* [My Top 5 Recommended Places to Learn about Deep Learning and Machine Learning](https://medium.com/datadriveninvestor/my-top-5-recommended-places-to-learn-about-deep-learning-and-machine-learning-f95153a847e)
 
 
 
