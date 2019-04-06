@@ -8,6 +8,7 @@
 * - [ ]  [Deeplearning.Ai](https://www.deeplearning.ai/)
 * - [ ]  [Stanford CS229 Mechine Learning](http://cs229.stanford.edu/syllabus.html)
 
+
 * [Stanford CS229 Projects](http://cs229.stanford.edu/proj2017/index.html) 
 
 ### Jobs Information
@@ -17,6 +18,7 @@
 ### Machine Learning Resourses
 * [How to be ML Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers?fbclid=IwAR2S4_R0vkPKzDsoEb8TOdsIwxUXvxw-29S7F80z4WyXY_-loI_tcE7JLAE#machine-learning-mastery)
 * [Best Resources for Learning Machine Learning? What Is ML Anyway? Q&A with ML Engineers!](https://www.youtube.com/watch?v=3EoRJR9kxAw&t=1s)
+* [The Best Resources I Used to Teach Myself Machine Learning](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
 
 
 
