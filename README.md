@@ -6,7 +6,8 @@
 * - [x]  [AI for everyning](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
 * - [ ]  [Standford Machine Learning](https://www.coursera.org/learn/machine-learning)
 * - [ ]  [Deeplearning.Ai](https://www.deeplearning.ai/)
-* - [ ]  [Standord CS229 Mechine Learning](http://cs229.stanford.edu/syllabus.html)
+* - [ ]  [Stanford CS229 Mechine Learning](http://cs229.stanford.edu/syllabus.html)
+         [Stanford CS229 Projects](http://cs229.stanford.edu/proj2017/index.html) 
 
 ### Jobs Information
 * [Machine Learning in LINE Company](https://www.slideshare.net/linecorp/machine-learning-at-line-124120738)
