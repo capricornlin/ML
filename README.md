@@ -11,6 +11,8 @@
 
 * [Stanford CS229 Projects](http://cs229.stanford.edu/proj2017/index.html) 
 * [AWS ML](https://aws.amazon.com/cn/training/learning-paths/machine-learning/?fbclid=IwAR1eJLMzF9ezsHL9tjzhbvZbnlriSSCHtSgzomyErigbpd8v5mqlTNiiHi8)
+* [Google AI](https://ai.google/education/)
+* [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 ### Jobs Information
 * [Machine Learning in LINE Company](https://www.slideshare.net/linecorp/machine-learning-at-line-124120738)
@@ -22,6 +24,10 @@
 * [The Best Resources I Used to Teach Myself Machine Learning](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
 * [Fast.ai](https://www.fast.ai/about/)
 * [My Top 5 Recommended Places to Learn about Deep Learning and Machine Learning](https://medium.com/datadriveninvestor/my-top-5-recommended-places-to-learn-about-deep-learning-and-machine-learning-f95153a847e)
+
+### Machine Medium Articles
+
+* [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
 
 
 
