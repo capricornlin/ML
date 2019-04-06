@@ -29,5 +29,13 @@
 
 * [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
 
+### Youtube
+* [HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw&t=8s)
+* [Machine Learning Books for Beginners](https://www.youtube.com/watch?v=vEBYLnHacQM&t=437s)
+* [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w&t=1290s)
+* [
+Powered by TensorFlow: Airbnb uses machine learning to help categorize its listing ](https://www.youtube.com/watch?v=tPb2u9kwh2w&t=84s)
+*
+
 
 
