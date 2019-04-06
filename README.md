@@ -10,6 +10,7 @@
 
 
 * [Stanford CS229 Projects](http://cs229.stanford.edu/proj2017/index.html) 
+* [AWS ML](https://aws.amazon.com/cn/training/learning-paths/machine-learning/?fbclid=IwAR1eJLMzF9ezsHL9tjzhbvZbnlriSSCHtSgzomyErigbpd8v5mqlTNiiHi8)
 
 ### Jobs Information
 * [Machine Learning in LINE Company](https://www.slideshare.net/linecorp/machine-learning-at-line-124120738)
