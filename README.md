@@ -24,6 +24,7 @@
 * [The Best Resources I Used to Teach Myself Machine Learning](https://medium.freecodecamp.org/the-best-resources-i-used-to-teach-myself-machine-learning-part-1-292232d167)
 * [Fast.ai](https://www.fast.ai/about/)
 * [My Top 5 Recommended Places to Learn about Deep Learning and Machine Learning](https://medium.com/datadriveninvestor/my-top-5-recommended-places-to-learn-about-deep-learning-and-machine-learning-f95153a847e)
+* [CS 229 handout](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 ### Machine Medium Articles
 
