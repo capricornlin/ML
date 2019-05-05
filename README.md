@@ -29,6 +29,7 @@
 ### Machine Medium Articles
 
 * [Machine Learning: A Primer](https://medium.com/@iamlizzieturner/lets-talk-about-machine-learning-ddca914e9dd1)
+* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e?fbclid=IwAR1EUfIyZ_7TDTN-EhoQuXd5fBg0n-NyI79W-56G1Cr_y_tf7o0TEaQCpwE)
 
 ### Youtube
 * [HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw&t=8s)
