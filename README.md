@@ -37,7 +37,7 @@
 * [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w&t=1290s)
 * [
 Powered by TensorFlow: Airbnb uses machine learning to help categorize its listing ](https://www.youtube.com/watch?v=tPb2u9kwh2w&t=84s)
-*
+* [Best Resources for Learning Machine Learning? What Is ML Anyway? Q&A with ML Engineers!](https://www.youtube.com/watch?v=3EoRJR9kxAw&t=92s)
 
 
 
