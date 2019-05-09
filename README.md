@@ -16,6 +16,7 @@
 
 ### Jobs Information
 * [Machine Learning in LINE Company](https://www.slideshare.net/linecorp/machine-learning-at-line-124120738)
+* [CS50 Lecture by Mark Zuckerberg](https://www.youtube.com/watch?v=xFFs9UgOAlE)
 
 
 ### Machine Learning Resourses
