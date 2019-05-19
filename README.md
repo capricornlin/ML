@@ -39,6 +39,17 @@
 * [
 Powered by TensorFlow: Airbnb uses machine learning to help categorize its listing ](https://www.youtube.com/watch?v=tPb2u9kwh2w&t=84s)
 * [Best Resources for Learning Machine Learning? What Is ML Anyway? Q&A with ML Engineers!](https://www.youtube.com/watch?v=3EoRJR9kxAw&t=92s)
+* [
+Live Coding A Machine Learning Model from Scratch (Google I/O'19)](https://www.youtube.com/watch?v=_RPHiqF2bSs)
+* [
+Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU&t=2s)
+* [
+Getting Started with TensorFlow 2.0 (Google I/O'19)](https://www.youtube.com/watch?v=lEljKc9ZtU8)
+
+
+
+
+
 
 
 
